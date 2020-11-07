@@ -1,0 +1,7 @@
+[user]
+	email = alexsah97@gmail.com
+	name = Alexandros Sahinis
+[core]
+	editor = vim
+[alias]
+	tree = log --oneline --graph --color --all --decorate
