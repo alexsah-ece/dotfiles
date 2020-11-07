@@ -5,3 +5,4 @@
 	editor = vim
 [alias]
 	tree = log --oneline --graph --color --all --decorate
+    treee = log --graph --all --simplify-by-decoration
